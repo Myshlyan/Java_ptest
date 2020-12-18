@@ -1,2 +1,12 @@
+ru/stqa/pft/sandbox/Triangle.java
+ ru.stqa.pft.sandbox.Triangle
+ru/stqa/pft/sandbox/Point.java
+ ru.stqa.pft.sandbox.Point
+ru/stqa/pft/sandbox/Rectangle.java
+ ru.stqa.pft.sandbox.Rectangle
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
+ru/stqa/pft/sandbox/Circle.java
+ ru.stqa.pft.sandbox.Circle
 ru/stqa/pft/sandbox/MyTestProgram.java
  ru.stqa.pft.sandbox.MyTestProgram
